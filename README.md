@@ -43,3 +43,16 @@ Speech synthesis is the artificial production of human speech. A text-to-speech 
 
 ## AI image generation
 
+Generative adversarial networks (GANs) are deep neural net architectures comprised of two nets, pitting one against the other (thus the “adversarial”).
+
+<b>Scetch-RNN:</b> https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+
+<b>Pix2Pix:</b> https://affinelayer.com/pixsrv/
+
+<b>GAN: A Beginner’s Guide:</b> https://deeplearning4j.org/generative-adversarial-network
+
+<b>Images from text:</b> https://youtu.be/rAbhypxs1qQ
+
+<b>GAN Faces:</b> https://youtu.be/XOxxPcy5Gr4
+
+
