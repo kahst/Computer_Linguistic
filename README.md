@@ -23,6 +23,8 @@ Recurrent nets are a type of artificial neural network designed to recognize pat
 
 <b>The Unreasonable Effectiveness of Recurrent Neural Networks:</b> https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
+<b>Clickotron:</b> http://clickotron.com/
+
 <b>Image captioning:</b> https://cs.stanford.edu/people/karpathy/deepimagesent/
 
 ### Sunspring screen play
@@ -49,10 +51,18 @@ Generative adversarial networks (GANs) are deep neural net architectures compris
 
 <b>Pix2Pix:</b> https://affinelayer.com/pixsrv/
 
+<b>Edges2Faces:</b> https://www.gocomics.com/blog/4014/cartooning-comes-to-nightmarish-life-with-pix2pix-imaging
+
 <b>GAN: A Beginner’s Guide:</b> https://deeplearning4j.org/generative-adversarial-network
 
 <b>Images from text:</b> https://youtu.be/rAbhypxs1qQ
 
 <b>GAN Faces:</b> https://youtu.be/XOxxPcy5Gr4
 
+## AI video generation
 
+<b>President Obama:</b> https://youtu.be/cQ54GDm1eL0
+
+<b>Deep Video Portaits:</b> http://niessnerlab.org/projects/kim2018deepvideo.html
+
+<b>FaceForensics:</b> http://niessnerlab.org/projects/roessler2018faceforensics.html
