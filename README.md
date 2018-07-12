@@ -17,6 +17,16 @@ Word embeddings are frequently used to represent words as inputs to machine lear
 
 ## AI text generation
 
+Recurrent nets are a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, the spoken word, or numerical times series data emanating from sensors, stock markets and government agencies. These algorithms take time and sequence into account, they have a temporal dimension.
+
 <b>Understanding LSTM Networks:</b> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 <b>The Unreasonable Effectiveness of Recurrent Neural Networks:</b> https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+<b>Image captioning:</b> https://cs.stanford.edu/people/karpathy/deepimagesent/
+
+### Sunspring screen play
+
+<b>Script:</b> http://www.thereforefilms.com/uploads/6/5/1/0/6510220/sunspring_final.pdf
+
+<b>Movie:</b> http://www.thereforefilms.com/sunspring.html
