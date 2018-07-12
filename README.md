@@ -27,6 +27,19 @@ Recurrent nets are a type of artificial neural network designed to recognize pat
 
 ### Sunspring screen play
 
+Sunspring. The first film ever written entirely by an artificial intelligence - starring Thomas Middleditch, Elisabeth Grey & Humphrey Ker.
+
 <b>Script:</b> http://www.thereforefilms.com/uploads/6/5/1/0/6510220/sunspring_final.pdf
 
 <b>Movie:</b> http://www.thereforefilms.com/sunspring.html
+
+## Text-to-Speech
+
+Speech synthesis is the artificial production of human speech. A text-to-speech (TTS) system converts normal language text into speech.
+
+<b>WaveNet:</b> https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+<b>Watson TTS:</b> https://text-to-speech-demo.ng.bluemix.net/
+
+## AI image generation
+
