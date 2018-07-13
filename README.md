@@ -66,3 +66,11 @@ Generative adversarial networks (GANs) are deep neural net architectures compris
 <b>Deep Video Portaits:</b> http://niessnerlab.org/projects/kim2018deepvideo.html
 
 <b>FaceForensics:</b> http://niessnerlab.org/projects/roessler2018faceforensics.html
+
+## Adversarial Examples
+
+Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines.
+
+<b>Introduction:</b> https://blog.openai.com/adversarial-example-research/
+
+<b>Turtle is a gun:</b> https://www.labsix.org/physical-objects-that-fool-neural-nets/
