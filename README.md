@@ -61,6 +61,8 @@ Generative adversarial networks (GANs) are deep neural net architectures compris
 
 ## AI video generation
 
+Synthesizing and editing video portraits, i.e., videos framed to show a person’s head and upper body, is an important problem in computer graphics, with applications in video editing and movie postproduction, visual efects, visual dubbing, virtual reality, and telepresence. And fake news.
+
 <b>President Obama:</b> https://youtu.be/cQ54GDm1eL0
 
 <b>Deep Video Portaits:</b> http://niessnerlab.org/projects/kim2018deepvideo.html
